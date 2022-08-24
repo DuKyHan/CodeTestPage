@@ -1,0 +1,1 @@
+var func = function a ( c = 1, d = 2) {return 1}

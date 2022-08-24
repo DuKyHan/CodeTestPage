@@ -1,0 +1,1 @@
+var func = function (a, b) {  let c = ; let u = 10; return a + b; };
